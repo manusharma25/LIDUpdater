@@ -8,6 +8,6 @@ public class CCILController {
 
 	@GetMapping("/")
 	public String ping() {
-		return "Ping Success";
+		return "Ping Success and Action Success \n";
 	}
 }
