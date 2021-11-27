@@ -14,6 +14,7 @@ public class LidUpdatorApplication {
 
 	 @Bean 
 	    RestTemplate restTemplate() {
+		    //hello
 	        return new RestTemplate();
 	    }    
 	
